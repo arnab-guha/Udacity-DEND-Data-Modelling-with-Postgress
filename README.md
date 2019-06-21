@@ -93,26 +93,6 @@ Process_log_file takes cursor and list of log files as arguments and process dat
 
 Here are the sample rows from the tables once the data is inserted:
 
-- Songplays Table:
-
-![songplays_table](/assets/songplays.png)
-
-- Songs Table:
-
-![songplays_table](/assets/songs.png)
-
-- Artists Table:
-
-![songplays_table](/assets/artists.png)
-
-- User Table:
-
-![songplays_table](/assets/users.png)
-
-- Time Table:
-
-![songplays_table](/assets/time.png)
-
 
 ### Example Analytical Queries:
 
